@@ -33,9 +33,9 @@ class FetchDemo extends React.Component {
           </p>
           <a className="App-link" href="/login"> Login with Github </a>
           <a className="App-link" href="/logout"> Logout</a>
-          <a className="App-link" href="/1mbfile.test"> 1MB file</a>
-          <a className="App-link" href="/5mbfile.test"> 5mb file</a>
-          <a className="App-link" href="/11mbfile.test"> 11 mb file</a>
+          <a className="App-link" href="/Astronaut.jpg"> 2MB file</a>
+          <a className="App-link" href="/Earth.jpg"> 7mb file</a>
+          <a className="App-link" href="/SpaceTower.jpg"> 27 mb file</a>
           <p>{this.state.userName}</p>
         </header>
       </div>
