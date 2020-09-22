@@ -19,7 +19,7 @@ module.exports = async function (context, req) {
     }
 
     context.res = {
-        body: {},
+        body: {"LastUpdated": "09/22/2020 2:18 PM"},
         headers: {
             'Content-Type': 'application/json'
         }
